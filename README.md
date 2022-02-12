@@ -3,7 +3,11 @@
 [![https://badgen.net/npm/license/vuepress-plugin-flexsearch](https://badgen.net/npm/license/vuepress-plugin-flexsearch)](https://github.com/z3by/vuepress-plugin-flexsearch/blob/master/LICENSE)
 [![https://badgen.net/github/contributors/z3by/vuepress-plugin-flexsearch](https://badgen.net/github/contributors/z3by/vuepress-plugin-flexsearch)](https://github.com/z3by/vuepress-plugin-flexsearch/graphs/contributors)
 
-# vuepress-plugin-flexsearch
+# vuepress-plugin-flexsearch-7
+
+This is a fork from [vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch)
+The branch for version 7 works fine but it still did not make it to npm. So I created the fork and published
+it myself.
 
 Next-Generation full text search library for Vuepress
 
@@ -12,8 +16,8 @@ Next-Generation full text search library for Vuepress
 ## Installation
 
 ```bash
-yarn add -D vuepress-plugin-flexsearch
-// or npm install vuepress-plugin-flexsearch -D
+yarn add -D vuepress-plugin-flexsearch-7
+// or npm install vuepress-plugin-flexsearch-7 -D
 
 ```
 
